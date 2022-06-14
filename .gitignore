@@ -1,0 +1,6 @@
+venv/*
+output.png
+*.csv
+*.xml
+*.code-workspace
+.vscode/*
