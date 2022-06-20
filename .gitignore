@@ -3,4 +3,7 @@ output.png
 *.csv
 *.xml
 *.code-workspace
+*.zip
 .vscode/*
+Denver/outputs/*
+holder.py
